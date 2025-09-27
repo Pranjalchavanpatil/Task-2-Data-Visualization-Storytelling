@@ -1,4 +1,4 @@
-# Data Visualization & Storytelling - Task 2 (Elevate Internship)
+# Data Visualization & Storytelling - Task 2 
 
 ## 📌 Objective
 The goal of this task is to create meaningful data visualizations and practice data storytelling using the **Superstore sales dataset**.
